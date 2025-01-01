@@ -8,7 +8,6 @@ export const revalidate = 60; //seconds
 
 
 
-
 // export default async function Home() {
 //   const query = `*[_type=='post'] | order(_createdAt asc){
   
